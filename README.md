@@ -1,2 +1,1 @@
-# Godot-Main-Menu
-it is a Main Menu with transitions for Godot
+GameDev.tv Game Jam 2022
