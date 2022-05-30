@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Bone.wav-354bd3c6c66dbf040da36fca93a8047a.sample"
+
+[deps]
+
+source_file="res://Game/Bone.wav"
+dest_files=[ "res://.import/Bone.wav-354bd3c6c66dbf040da36fca93a8047a.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
